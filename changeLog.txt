@@ -8,6 +8,7 @@ develop
 -------------------------------------------------------------
 .: First FT specced out in comments and now uses unittest (Chapter 2)
 .: Add app for lists with deliberately failing unit test (Chapter 3)
+.: First unit test and url mapping - dummy view (Chapter 3)
 
 -------------------------------------------------------------
 - 2017-06-18                                                -
