@@ -9,6 +9,7 @@ develop
 .: Functional test now checks we can input a to-do item (Chapter 4)
 .: Refactor home page view to use a template (Chapter 4)
 .: Front page HTML now generated from a template (Chapter 4)
+.: Before practising Three Strikes and Refactor (Chapter 5)
 
 -------------------------------------------------------------
 - 2017-12-13                                                -
