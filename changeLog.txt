@@ -7,6 +7,7 @@ develop
 - 2017-12-14                                                -
 -------------------------------------------------------------
 .: Functional test now checks we can input a to-do item (Chapter 4)
+.: Refactor home page view to use a template (Chapter 4)
 
 -------------------------------------------------------------
 - 2017-12-13                                                -
