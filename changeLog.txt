@@ -11,6 +11,7 @@ develop
 .: Front page HTML now generated from a template (Chapter 4)
 .: Before practising Three Strikes and Refactor (Chapter 5)
 .: Refactored functional_tests.py (Chapter 5)
+.: Model for list Items and associated migration (Chapter 5)
 
 -------------------------------------------------------------
 - 2017-12-13                                                -
