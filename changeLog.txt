@@ -7,6 +7,7 @@ develop
 - 2017-12-18                                                -
 -------------------------------------------------------------
 .: New URL & view & template to display lists (Chapter 7)
+.: Add a URL and View for New List Creation (Chapter 7)
 
 -------------------------------------------------------------
 - 2017-12-15                                                -
