@@ -7,8 +7,10 @@ develop
 - 2017-12-19                                                -
 -------------------------------------------------------------
 .: Make list a foreign key to Item model (Chapter 7)
-.: New URL + view for adding to existing lists. FT passes :-) (Chapter 7)
+.: New URL + view for adding to existing lists & FT passes (Chapter 7)
 .: Final refractor using URL includes (Chapter 7)
+.: First steps of FT for layout + styling (Chapter 8)
+.: Refractor templates to use a base template (Chapter 8)
 
 -------------------------------------------------------------
 - 2017-12-18                                                -
