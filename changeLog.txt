@@ -7,6 +7,7 @@ develop
 - 2017-12-19                                                -
 -------------------------------------------------------------
 .: Make list a foreign key to Item model (Chapter 7)
+.: New URL + view for adding to existing lists. FT passes :-) (Chapter 7)
 
 -------------------------------------------------------------
 - 2017-12-18                                                -
