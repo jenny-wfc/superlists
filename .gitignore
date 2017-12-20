@@ -4,3 +4,4 @@ __pycache__/*
 geckodriver.log
 .idea/*
 __init__.cpython-36.pyc
+static/

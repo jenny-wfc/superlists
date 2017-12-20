@@ -4,9 +4,34 @@
 
 develop
 -------------------------------------------------------------
+- 2017-12-20                                                -
+-------------------------------------------------------------
+.: Set STATIC_ROOT in settings and disable admin (Chapter 8)
+.: Hack FT runner to be able to test staging (Chapter 9)
+.: Add requirements.txt for virtualenv (Chapter 9)
+
+-------------------------------------------------------------
+- 2017-12-19                                                -
+-------------------------------------------------------------
+.: Make list a foreign key to Item model (Chapter 7)
+.: New URL + view for adding to existing lists & FT passes (Chapter 7)
+.: Final refractor using URL includes (Chapter 7)
+.: First steps of FT for layout + styling (Chapter 8)
+.: Refractor templates to use a base template (Chapter 8)
+
+-------------------------------------------------------------
+- 2017-12-18                                                -
+-------------------------------------------------------------
+.: New URL & view & template to display lists (Chapter 7)
+.: Add a URL and View for New List Creation (Chapter 7)
+
+-------------------------------------------------------------
 - 2017-12-15                                                -
 -------------------------------------------------------------
 .: Redirect after POST and show all items in template (Chapter 5)
+.: Make functional_tests an app - use LiveServerTestCase (Chapter 6)
+.: Avoid "voodoo" sleeps (Chapter 6)
+.: Ensuring we have a Regression Test (Chapter 7)
 
 -------------------------------------------------------------
 - 2017-12-14                                                -
