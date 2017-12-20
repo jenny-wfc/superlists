@@ -8,6 +8,7 @@ develop
 -------------------------------------------------------------
 .: Set STATIC_ROOT in settings and disable admin (Chapter 8)
 .: Hack FT runner to be able to test staging (Chapter 9)
+.: Add requirements.txt for virtualenv (Chapter 9)
 
 -------------------------------------------------------------
 - 2017-12-19                                                -
