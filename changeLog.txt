@@ -8,6 +8,8 @@ develop
 -------------------------------------------------------------
 .: Given ALLOWED_HOSTS a wildcard (~Chapter 9)
 .: Modify .gitignore
+.: Add gunicorn to virtualenv requirements (Chapter 10)
+.: Set DEBUG = false and add TEMPLATE_DEBUG = DEBUG in setting.py (Chapter 10)
 
 -------------------------------------------------------------
 - 2017-12-20                                                -
