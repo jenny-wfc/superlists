@@ -10,6 +10,7 @@ develop
 .: Modify .gitignore
 .: Add gunicorn to virtualenv requirements (Chapter 10)
 .: Set DEBUG = false and add TEMPLATE_DEBUG = DEBUG in setting.py (Chapter 10)
+.: Notes and template config files for provisioning (Chapter 10)
 
 -------------------------------------------------------------
 - 2017-12-20                                                -
