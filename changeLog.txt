@@ -7,6 +7,7 @@ develop
 - 2018-01-11                                                -
 -------------------------------------------------------------
 .: Moved Fts into their own individual files (Chapter 12)
+.: Move unit tests into a folder with single file (Chapter 12)
 
 -------------------------------------------------------------
 - 2017-12-27                                                -
