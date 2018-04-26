@@ -4,6 +4,13 @@
 
 develop
 -------------------------------------------------------------
+- 2018-01-11                                                -
+-------------------------------------------------------------
+.: Moved Fts into their own individual files (Chapter 12)
+.: Move unit tests into a folder with single file (Chapter 12)
+.: Split out unit tests into two files (Chapter 12)
+
+-------------------------------------------------------------
 - 2017-12-27                                                -
 -------------------------------------------------------------
 .: Add a fabfile for automated deploys (Chapter 11)
